@@ -4,7 +4,7 @@ Ini adalah handover tugas akhir Startup Campus AI Track
 
 ## Cara Instalasi
 1. Buat folder sesuka hati
-2. Clone git ini ```git clone https://github.com/AlifvianM/sc-final-project.git```
+2. Clone git ini ```git clone https://github.com/AlifvianM/sc-final-project.git](https://github.com/syahvan/sc-final-project-handover.git```
 3. Masuk ke folder ``` cd sc-final-project ```
 4. Membuat environment ``` python -m venv [NAMA_ENV] ```
 5. Aktifkan environment 
